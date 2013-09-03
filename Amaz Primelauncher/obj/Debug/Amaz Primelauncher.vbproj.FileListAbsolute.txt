@@ -1,0 +1,11 @@
+c:\users\alessio\documents\visual studio 2012\Projects\Amaz Primelauncher\Amaz Primelauncher\bin\Debug\Amaz Primelauncher.exe
+c:\users\alessio\documents\visual studio 2012\Projects\Amaz Primelauncher\Amaz Primelauncher\bin\Debug\Amaz Primelauncher.pdb
+c:\users\alessio\documents\visual studio 2012\Projects\Amaz Primelauncher\Amaz Primelauncher\bin\Debug\Amaz Primelauncher.xml
+c:\users\alessio\documents\visual studio 2012\Projects\Amaz Primelauncher\Amaz Primelauncher\obj\Debug\Amaz_Primelauncher.AmazPrimelauncher.resources
+c:\users\alessio\documents\visual studio 2012\Projects\Amaz Primelauncher\Amaz Primelauncher\obj\Debug\Amaz_Primelauncher.Resources.resources
+c:\users\alessio\documents\visual studio 2012\Projects\Amaz Primelauncher\Amaz Primelauncher\obj\Debug\Amaz Primelauncher.vbproj.GenerateResource.Cache
+c:\users\alessio\documents\visual studio 2012\Projects\Amaz Primelauncher\Amaz Primelauncher\obj\Debug\Amaz Primelauncher.exe
+c:\users\alessio\documents\visual studio 2012\Projects\Amaz Primelauncher\Amaz Primelauncher\obj\Debug\Amaz Primelauncher.xml
+c:\users\alessio\documents\visual studio 2012\Projects\Amaz Primelauncher\Amaz Primelauncher\obj\Debug\Amaz Primelauncher.pdb
+c:\users\alessio\documents\visual studio 2012\Projects\Amaz Primelauncher\Amaz Primelauncher\bin\Debug\Amaz Primelauncher.exe.config
+c:\users\alessio\documents\visual studio 2012\Projects\Amaz Primelauncher\Amaz Primelauncher\obj\Debug\Amaz_Primelauncher.Opzioni.resources
