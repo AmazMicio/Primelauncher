@@ -1,8 +1,0 @@
-amaz-pool:http://ypool.net:10034
-amaz-user:Micio.1
-amaz-pass:1
-amaz-siev:1500000
-amaz-thre:0
-check-sie:True
-check-thr:True
-check-hid:False
